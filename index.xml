@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>roddy.cool on roddy.cool</title>
+    <link>http://roddy.cool/</link>
+    <description>Recent content in roddy.cool on roddy.cool</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Mar 2019 11:08:21 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>It Began</title>
+      <link>http://roddy.cool/posts/it-began/</link>
+      <pubDate>Tue, 12 Mar 2019 11:08:21 +0000</pubDate>
+      
+      <guid>http://roddy.cool/posts/it-began/</guid>
+      <description>&lt;p&gt;roddy.cool online &amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
