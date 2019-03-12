@@ -2,3 +2,9 @@ baseURL = "http://roddy.cool/"
 languageCode = "en-us"
 title = "roddy.cool"
 theme = "KeepIt"
+
+[menu]
+  [[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 1
