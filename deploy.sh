@@ -6,12 +6,12 @@ hugo -v
 cd public
 
 git init
-git config user.name "dooougs"
-git config user.email "e@dou.gs"
+git config user.name "r0dd8"
+git config user.email "e@roddy.cool"
 
-echo "itsadougs.life" > CNAME
+echo "roddy.cool" > CNAME
 git add .
 git commit -m "Deploy from CircleCI"
 
 # use --quiet to avoid printing token in build logs
-git push --force --quiet "https://github.com/dooougs/itsadougslife.git" master:gh-pages
+git push --force --quiet "https://github.com/r0dd8/coolsite.git" master:gh-pages
